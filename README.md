@@ -1,6 +1,7 @@
 # Work Day Scheduler
 ## URL
 
+https://alexyn26.github.io/WorkDayPlanner/
 ## Description
 A work day planner that highlights the current hour and saves user inputtedn reminders/events for specific times. This application uses HTML, CSS, and jQuery.
 
