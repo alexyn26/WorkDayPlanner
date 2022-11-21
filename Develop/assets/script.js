@@ -1,8 +1,7 @@
 $(document).ready(function () {
 
 
-    // DISPLAYS DATE
-    $('#currentDay').text(moment().format('dddd, MMMM Do'));
+
 
 
     //CLICK EVENT FOR SAVE BUTTON
