@@ -34,3 +34,6 @@ Once the information has been saved, it will be in the users localStorage
 ## Mock-up
 
 [Work Day Scheduler.webm](https://user-images.githubusercontent.com/107084291/203160399-64a0c669-f195-453d-8d5d-0c6b43d4d60b.webm)
+
+## Credit
+Starter code provided by UTA bootcamp
